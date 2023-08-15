@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chichimusictest/static/css/main.b5912343.css",
+    "main.js": "/chichimusictest/static/js/main.0a868a22.js",
+    "static/js/845.2730a4a0.chunk.js": "/chichimusictest/static/js/845.2730a4a0.chunk.js",
+    "static/media/triangle.mp3": "/chichimusictest/static/media/triangle.d80dbbf2d3084f2ba7ed.mp3",
+    "index.html": "/chichimusictest/index.html",
+    "main.b5912343.css.map": "/chichimusictest/static/css/main.b5912343.css.map",
+    "main.0a868a22.js.map": "/chichimusictest/static/js/main.0a868a22.js.map",
+    "845.2730a4a0.chunk.js.map": "/chichimusictest/static/js/845.2730a4a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5912343.css",
+    "static/js/main.0a868a22.js"
+  ]
+}
