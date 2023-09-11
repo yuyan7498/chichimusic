@@ -2694,3 +2694,8 @@ textarea.form-control.textarea-box {
         transform: translateX(30px);
     }
 }
+
+/* 禁止雙擊（縮放） */
+html, body {
+    touch-action: manipulation;
+}
